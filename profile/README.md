@@ -32,7 +32,7 @@ Our team of experienced professionals combines technical expertise with business
         <small>Custom, responsive web solutions built for performance and scalability</small>
       </td>
       <td align="center" valign="top" width="25%">
-        <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5738/5738031.png" alt="Mobile Development">
+        <img height="70px" src="https://static.vecteezy.com/system/resources/thumbnails/009/299/630/small/3d-illustration-of-web-development-png.png" alt="Mobile Development">
         <br />
         <strong>Mobile App Development</strong>
         <br />
